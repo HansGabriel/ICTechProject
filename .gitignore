@@ -39,3 +39,5 @@ Temporary Items
 .apdisk
 
 firebaseConfig.js
+
+components/Firebase/firebaseConfig.js
